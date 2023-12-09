@@ -1,10 +1,18 @@
+import Home from "./component/Home/Home"
+import Header from "./component/header/Header"
+import './App.css'
 
 function App() {
 
   return (
-    <>
-      <h1>hellow</h1>
-    </>
+    <div className="App">
+      <div>
+        <div className="white-gradient"></div>
+        <Header/>
+        <Home/>
+      </div>
+      
+    </div>
   )
 }
 
