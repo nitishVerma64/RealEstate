@@ -3,6 +3,7 @@ import Header from "./component/header/Header"
 import './App.css'
 import Company from "./component/Compani/Company"
 import Location from "./component/Location/Location"
+import Value from "./component/Value/Value"
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
       </div>
       <Company/>
       <Location/>
+      <Value/>
     </div>
   )
 }
