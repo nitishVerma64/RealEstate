@@ -23,7 +23,7 @@
     margin-bottom: 20px;
 }
 
-.accordionItem .expnded
+.accordionItem.expnded
 {
     box-shadow: var(--shadow);
     border-radius: 6px;

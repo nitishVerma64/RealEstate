@@ -4,6 +4,9 @@ import './App.css'
 import Company from "./component/Compani/Company"
 import Location from "./component/Location/Location"
 import Value from "./component/Value/Value"
+import Contact from "./component/Contact/Contact"
+import Get from "./component/GetStarted/Get"
+import Footer from "./component/Footer/Footer"
 
 function App() {
 
@@ -17,6 +20,9 @@ function App() {
       <Company/>
       <Location/>
       <Value/>
+      <Contact/>
+      <Get/>
+      <Footer/>
     </div>
   )
 }
