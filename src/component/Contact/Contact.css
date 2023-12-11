@@ -61,3 +61,24 @@
     scale: 0.8;
 }
 
+@media screen and (max-width:1024px) {
+    .c-container{
+        flex-direction: column!important;
+    }
+    .c-right{
+        justify-content: center!important;
+    }
+
+    .contactModes{
+        width: 100%;
+    }
+
+    .row{
+        flex-direction: column!important;
+        width: 100%;
+    }
+
+    .mode{
+        width: 100%;
+    }
+}
