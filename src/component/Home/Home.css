@@ -108,4 +108,8 @@
     .stat>:nth-child(2){
         font-size: 0.8rem;
     }
+
+    .search-bar{
+        padding: 0.5rem 0.2rem;
+    }
 }

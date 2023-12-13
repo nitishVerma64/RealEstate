@@ -53,7 +53,7 @@ const Value = () => {
                                             {item.heading}
                                         </span>
                                         <div className="flexCenter icon">
-                                            <MdOutlineArrowDropDown size={20}/> 
+                                            <MdOutlineArrowDropDown size={18}/> 
                                         </div>
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
