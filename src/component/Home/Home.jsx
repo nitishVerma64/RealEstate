@@ -18,7 +18,7 @@ const Home = () => {
                 <span className='secondaryText'>Forget all difficulties in finding a residance for you</span>
               </div>
               <div className="flexCenter search-bar">
-                <HiLocationMarker color='var(--blue)' size={25}/>
+                <HiLocationMarker color='var(--blue)' size={23}/>
                 <input type="text" />
                 <button className="button">Search</button>
               </div>
