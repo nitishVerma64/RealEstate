@@ -111,5 +111,11 @@
 
     .search-bar{
         padding: 0.5rem 0.2rem;
+        border: 2px;
+
+    }
+
+    .search-bar>button{
+        padding: 0.5rem 1rem;
     }
 }
