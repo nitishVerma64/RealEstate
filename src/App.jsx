@@ -7,7 +7,6 @@ import Value from "./component/Value/Value"
 import Contact from "./component/Contact/Contact"
 import Get from "./component/GetStarted/Get"
 import Footer from "./component/Footer/Footer"
-// import Card from "./component/Card/Card"
 
 function App() {
 
@@ -25,7 +24,6 @@ function App() {
       <Get/>
       <Footer/>
     </div>
-    /* <Card/> */
   )
 }
 
